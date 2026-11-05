@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-purchase-requisitions-dart-mobile",
+  "capabilityKey": "liberusoftware/module-accounting-purchase-requisitions",
+  "presentation": "dart-mobile",
+  "package": "module_accounting_purchase_requisitions_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/accounting/nextjs/purchase-requisitions.md",
+  "presentationPlan": "projects/accounting/features/purchase-requisitions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
